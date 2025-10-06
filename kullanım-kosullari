@@ -1,0 +1,128 @@
+AI Kaza Raporu Asistanı - Kullanım Koşulları
+Son Güncelleme Tarihi: 15 Eylül 2025
+
+1. Giriş ve Tanımlar
+1.1. Hoş Geldiniz ve Kabul
+AI Kaza Raporu Asistanı mobil uygulamasına (bundan böyle "Uygulama" olarak anılacaktır) hoş geldiniz. Uygulamamızı indirerek, kurarak, erişerek veya kullanarak, işbu Kullanım Koşulları ("Koşullar") ile Gizlilik ve KVKK Politikası ("Politika") dahil olmak üzere tüm ek kurallara, politikaya ve bildirimlere bağlı kalmayı kabul etmiş olursunuz. Lütfen Uygulamayı kullanmaya başlamadan önce bu Koşulları dikkatlice okuyunuz. Bu Koşulları kabul etmiyorsanız, Uygulamayı kullanmamalısınız.
+1.2. Uygulama ("AI Kaza Raporu Asistanı") Tanımı
+AI Kaza Raporu Asistanı, mobil cihazlar için geliştirilmiş, yapay zeka destekli bir kaza raporu oluşturma ve delil toplama platformudur. Uygulama, kullanıcıların kaza sonrası toplayacağı görsel (fotoğraf, video), işitsel (sesli beyan) ve konum verilerini analiz ederek, ilgili tarafların (sürücüler, sigorta şirketleri, hukuk büroları vb.) ihtiyaç duyabileceği yapılandırılmış bir kaza raporu ve delil paketi sunmayı amaçlar. Uygulama içinde sunulan ek hizmetler (çekici çağırma, servis bulma, hukuki destek yönlendirmeleri, sigorta teklifi alma vb.) de bu tanımın kapsamındadır.
+1.3. Kullanıcı Tanımı
+İşbu Koşullar kapsamında "Kullanıcı", Uygulamayı indiren, kuran, erişen, hesap oluşturan veya herhangi bir şekilde kullanan gerçek kişiyi ifade eder. Bu tanım, Uygulama aracılığıyla kaza raporu oluşturan sürücüleri ve diğer tüm etkileşimde bulunan şahısları kapsar.
+1.4. İşbu Koşulların Amacı
+Bu Kullanım Koşulları, Uygulama ile Kullanıcı arasındaki hizmet ilişkisinin genel çerçevesini ve her iki tarafın hak ve yükümlülüklerini belirlemek amacıyla hazırlanmıştır. Koşullar, Uygulamanın nasıl kullanılması gerektiğine dair kuralları, yapay zeka teknolojisinin kullanımına ilişkin sorumluluk sınırlarını ve Uygulama içinde sunulan diğer hizmetlerin şartlarını açıklamaktadır.
+
+2. Uygulama Hizmetleri ve Kullanım Şartları
+2.1. Kaza Raporu Oluşturma Hizmeti
+Uygulama, kullanıcıların trafik kazaları sonrası gerekli bilgileri ve delilleri (fotoğraf, video, ses kaydı, konum verisi vb.) toplayarak, bu verileri yapay zeka destekli analizlerle yapılandırılmış ve standardize edilmiş bir kaza raporu formatına dönüştürme hizmeti sunar. Oluşturulan raporlar, Kullanıcının nihai onayı ile tamamlanır. Uygulama, resmi bir kaza tespit tutanağı veya hukuki belge niteliği taşımayıp, kaza bildirim süreçlerinde yardımcı bir araç olarak tasarlanmıştır.
+2.2. Yapay Zeka Destekli Analiz ve Çözümleme
+Uygulama, Google Gemini 2.5 Flash ve fal.ai gibi gelişmiş yapay zeka modellerini kullanarak, Kullanıcı tarafından yüklenen metinsel, görsel ve işitsel verileri işler, analiz eder ve anlamlandırır. Bu kapsamda:
+Belge okuma (OCR) teknolojisi ile ehliyet, ruhsat, sigorta poliçesi gibi belgelerden veri çıkarımı yapılır.
+Kaza yeri fotoğrafları ve videolar analiz edilerek hasar tespiti ve kroki çizimi için veri sağlanır.
+Kullanıcının sesli beyanları metne dönüştürülerek kaza anlatımı oluşturulur.
+Tüm bu veriler, kaza krokisi ve rapor metni oluşturmak için kullanılır.
+2.3. Delil Toplama ve Yönetimi (Fotoğraf, Video, Ses Kaydı, Konum)
+Kullanıcı, Uygulama aracılığıyla kaza yerine ilişkin fotoğraf ve video çekebilir, sesli beyanda bulunabilir ve cihazının konum verilerini paylaşabilir. Yüklenen tüm bu deliller, Kullanıcının belirlediği rapor kapsamında toplanır, işlenir ve güvenli bir şekilde saklanır. Kullanıcı, bu delillerin Uygulama tarafından raporlama amacıyla kullanılmasına izin verdiğini kabul eder.
+2.4. Rapor Önizleme ve Düzenleme İmkanları
+Yapay zeka tarafından oluşturulan kaza raporu taslağı, Kullanıcının detaylı bir şekilde önizlemesine sunulur. Kullanıcı, rapor metinlerini, yüklediği delilleri, sürücü ve araç bilgilerini ve yapay zeka tarafından oluşturulan kaza krokisini bu önizleme aşamasında kontrol edebilir, gerekli gördüğü yerlerde manuel düzenleme yapabilir ve hataları düzeltebilir. Bu önizleme ve düzenleme imkanı, raporun doğruluğunu artırmak amacıyla sunulmuştur.
+2.5. Raporun Oluşturulması ve Paylaşılması (E-posta, İndirme)
+Kullanıcının onayı ve dijital imzaları ile nihai hale getirilen kaza raporu, PDF formatında oluşturulur ve tüm delillerle birlikte tek bir ZIP dosyası halinde derlenir. Kullanıcı, bu rapor ve delil paketini Uygulama içinden indirebilir ve/veya belirttiği e-posta adresine gönderebilir.
+2.6. Ek Hizmetler (Çekici, Servis, Hukuki Destek, Sigorta Teklifleri)
+Uygulama, kaza sonrası süreçleri kolaylaştırmak amacıyla üçüncü taraf hizmetlerle entegrasyonlar veya yönlendirmeler sunabilir:
+Çekici ve Yol Yardım: Anlaşmalı çekici hizmetleri veya Kullanıcının poliçesindeki çekici teminatlarına erişim imkanı.
+Servis Bulma: Kaza yapan aracın onarımı için yakındaki anlaşmalı veya yetkili servislerin harita üzerinde görüntülenmesi.
+Hukuki Destek: Kaza sonrası hukuki danışmanlık ihtiyacı için anlaşmalı hukuk bürolarına (örn: Genesis Hukuk) yönlendirme.
+Sigorta Teklifleri: Aracın sigorta durumunu güncellemek veya yeni sigorta teklifleri almak için anlaşmalı sigorta acentelerinin teklif sayfalarına yönlendirme.
+Bu ek hizmetlerin kullanım şartları ve sorumlulukları, ilgili üçüncü taraf hizmet sağlayıcılarına ait olup, Uygulama bu hizmetlerin içeriğinden veya sunumundan sorumlu değildir.
+2.7. Hizmetlerin Sürekli Değişimi ve Güncellenmesi
+AI Kaza Raporu Asistanı, Uygulama içerisindeki hizmetleri, özellikleri ve teknolojileri sürekli olarak geliştirme, güncelleme, değiştirme veya kaldırma hakkını saklı tutar. Bu tür değişiklikler, Kullanıcılara önceden bildirimde bulunulmaksızın yapılabilir. Kullanıcı, bu tür değişiklikleri kabul ettiğini beyan eder.
+
+3. Kullanıcı Yükümlülükleri ve Sorumlulukları
+3.1. Doğru ve Gerçek Bilgi Sağlama Yükümlülüğü
+Kullanıcı, Uygulama üzerinden oluşturduğu kaza raporları ve ilgili tüm işlemler için verdiği bilgilerin (kişisel bilgiler, ehliyet, ruhsat, sigorta bilgileri, kaza beyanları, konum verileri vb.) tam, doğru, güncel ve gerçeğe uygun olduğunu beyan ve taahhüt eder. Yanlış, yanıltıcı veya eksik bilgi verilmesinden doğacak tüm hukuki ve cezai sorumluluk Kullanıcıya aittir. Uygulama, Kullanıcı tarafından sağlanan bilgilerin doğruluğunu teyit etme yükümlülüğünde değildir.
+3.2. Yüklenen İçeriklerin (Fotoğraf, Video, Ses) Yasal Sorumluluğu
+Kullanıcı, Uygulamaya yüklediği tüm fotoğraf, video, ses kaydı ve diğer medya içeriklerinin (bundan böyle "İçerik" olarak anılacaktır) kendisine ait olduğunu, üçüncü şahısların fikri mülkiyet haklarını, kişisel haklarını veya gizliliklerini ihlal etmediğini kabul ve taahhüt eder. Yüklenen İçeriklerin yasalara, ahlak kurallarına ve işbu Koşullara uygunluğundan Kullanıcı tek başına sorumludur. Uygulama, yüklenen İçeriklerin hukuki uygunluğunu kontrol etme yükümlülüğünde değildir ve bu İçeriklerden doğacak herhangi bir uyuşmazlıktan veya zarardan sorumlu tutulamaz.
+3.3. Uygulamayı Yasalara Uygun Kullanma
+Kullanıcı, Uygulamayı T.C. yasalarına, uluslararası hukuk normlarına, işbu Kullanım Koşullarına ve Gizlilik Politikasına uygun olarak kullanacağını taahhüt eder. Uygulamanın yasa dışı amaçlarla veya başkalarına zarar verecek şekilde kullanılması kesinlikle yasaktır.
+3.4. Hesabın Güvenliği ve Şifre Sorumluluğu
+Kullanıcı, Uygulama hesabı için belirlediği kullanıcı adı ve şifresinin güvenliğinden tek başına sorumludur. Kullanıcı, hesabına izinsiz erişim veya herhangi bir güvenlik ihlali durumunda derhal Uygulamayı bilgilendirmekle yükümlüdür. Hesap bilgilerinin üçüncü kişilerle paylaşılmasından veya izinsiz kullanımından doğacak zararlardan Uygulama sorumlu değildir.
+3.5. Başkalarının Bilgilerini İzinsiz Kullanmama
+Kullanıcı, Uygulama aracılığıyla diğer sürücülerin veya üçüncü şahısların kişisel ve özel bilgilerini (ad, soyad, T.C. kimlik numarası, telefon, e-posta, araç bilgileri vb.) kendi rızaları olmaksızın temin etmeyeceğini, işlemeyeceğini veya yasa dışı amaçlarla kullanmayacağını taahhüt eder. Bu tür bilgilerin izinsiz kullanılmasından doğacak tüm sorumluluk Kullanıcıya aittir.
+3.6. Uygulamanın Altyapısına Zarar Vermeme
+Kullanıcı, Uygulamanın işleyişini bozacak, aşırı yükleyecek, güvenlik sistemlerine müdahale edecek veya hizmet kalitesini düşürecek herhangi bir faaliyette bulunmayacağını taahhüt eder. Buna, virüs, trojan veya diğer kötü amaçlı yazılımların yayılması, spam gönderme, DDoS saldırıları düzenleme girişimleri dahildir ancak bunlarla sınırlı değildir.
+3.7. Kötüye Kullanım ve Yasaklı Faaliyetler
+Uygulama, sadece trafik kazaları sonrası raporlama ve delil toplama amacıyla kullanılmalıdır. Kullanıcı, Uygulamayı, kurgusal kazalar oluşturmak, sahte raporlar düzenlemek, dolandırıcılık faaliyetlerinde bulunmak veya yasa dışı başka herhangi bir amaç için kullanmayacağını kabul eder. Uygulamanın kötüye kullanıldığının tespiti halinde, Uygulamanın hesabı askıya alma ve feshetme hakkı saklıdır.
+
+4. Yapay Zeka Kullanımı ve Sorumluluk Reddi
+4.1. Yapay Zekanın Destekleyici Rolü
+Uygulama içinde kullanılan yapay zeka teknolojileri (Google Gemini 2.5 Flash, fal.ai entegrasyonu), Kullanıcının sağladığı verileri işlemek, analiz etmek ve kaza raporu taslağı, kroki ve diğer ilgili bilgileri oluşturmak için bir destek aracı olarak hizmet eder. Yapay zeka, insan kararının veya resmi kurumların işlevini ikame etmek amacıyla tasarlanmamıştır.
+4.2. Yapay Zeka Tarafından Üretilen İçeriklerin (Kroki, Metin Analizi) Doğruluk Sınırları
+Yapay zeka modelleri, en ileri teknolojileri kullanmasına rağmen, %100 doğruluk garantisi veremez. Kaza krokileri, metin analizleri ve diğer yapay zeka çıktıları, sağlanan verilere dayanır ve bu verilerin kalitesine, eksikliğine veya yanlışlığına bağlı olarak hata içerebilir. Yapay zeka çıktıları, bir tahmin veya yorum niteliğindedir ve mutlak gerçekliği temsil etmeyebilir.
+4.3. Yapay Zeka Hatalarından Doğan Sorumluluk Reddi
+Uygulama, yapay zeka algoritmalarının veri işleme, analiz veya çıktı üretim süreçlerinde oluşabilecek hatalardan, eksikliklerden veya yanlış yorumlamalardan kaynaklanan hiçbir doğrudan veya dolaylı zarardan sorumlu değildir. Kullanıcı, yapay zeka tarafından oluşturulan tüm içerikleri kendi sorumluluğunda kontrol etmek, doğrulamak ve nihai onayını vermekle yükümlüdür.
+4.4. Yapay Zeka Çıktılarının Hukuki Bağlayıcılığı (Kullanıcının Nihai Onayı)
+Uygulama tarafından yapay zeka desteğiyle hazırlanan kaza raporu taslağı ve ekleri, Kullanıcının önizlemesi ve manuel düzeltmeleri sonrasında verdiği nihai onay ve imzalar ile hukuki bir nitelik kazanır. Yapay zeka tarafından üretilen hiçbir çıktı, Kullanıcının nihai onayı olmaksızın bağlayıcı kabul edilemez. Raporun resmi kurumlar veya sigorta şirketleri nezdindeki geçerliliği ve kabul edilebilirliği, ilgili kurumların kendi prosedürlerine ve takdirine bağlıdır. Uygulama, raporun her durumda kabul edileceği veya yasal bir belge olarak kesinlik taşıyacağı garantisini vermez.
+
+5. Fikri Mülkiyet Hakları
+5.1. Uygulama İçeriği ve Telif Hakları
+Uygulamanın tasarımı, yazılım kodu, arayüzü, logoları, metinleri, görselleri ve Uygulama içinde yer alan diğer tüm içerikler (üçüncü taraf içerikler hariç), Uygulama geliştiricilerine aittir ve ulusal ve uluslararası telif hakkı, marka ve diğer fikri mülkiyet yasalarıyla korunmaktadır. Uygulamanın veya içeriğinin izinsiz kopyalanması, çoğaltılması, dağıtılması veya kullanılması kesinlikle yasaktır.
+5.2. Kullanıcı Tarafından Yüklenen İçeriklerin Lisanslanması (Uygulamanın İşlemesi İçin Gerekli İzinler)
+Kullanıcı, Uygulamaya yüklediği tüm İçeriklerin (fotoğraf, video, ses kaydı, beyanlar vb.) yasalara uygun olduğunu ve bu İçeriklerin Uygulama tarafından kaza raporu oluşturma, işleme, saklama, analiz etme ve üçüncü taraf hizmet sağlayıcılarla (sadece raporun oluşturulması ve hizmetin sunulması amacıyla) paylaşılması için gerekli tüm haklara, izinlere ve lisanslara sahip olduğunu beyan eder. Kullanıcı, bu amaçlarla sınırlı olmak üzere, Uygulamaya dünya çapında, telifsiz, devredilebilir, alt lisanslanabilir bir lisans verdiğini kabul eder. Bu lisans, Uygulamanın hizmetlerini sunması için zorunludur.
+5.3. Üçüncü Taraf Fikri Mülkiyet Hakları
+Uygulama içinde yer alabilecek üçüncü taraf içerikler (örn: haritalar, kütüphaneler, partner logoları) ilgili sahiplerinin fikri mülkiyetinde olup, bu içeriklerin kullanım şartları kendi lisans ve koşullarına tabidir. Uygulama, üçüncü taraf fikri mülkiyet ihlallerinden sorumlu değildir. Kullanıcı, üçüncü taraf fikri mülkiyet haklarını ihlal eden içerik yüklemeyeceğini taahhüt eder.
+
+6. Ödeme Şartları ve İadeler 
+6.1. Abonelik Planları veya Tek Seferlik Ödemeler
+Uygulama, belirli hizmetler veya özellikler için abonelik bazında veya tek seferlik ödeme modelleri sunabilir. İlgili ödeme planlarının detayları, fiyatlandırmaları ve kapsamları Uygulama içinde veya resmi web sitesinde açıkça belirtilecektir. Kullanıcı, bu ödeme planlarını tercih etmesi halinde, belirtilen ücretleri ödemeyi kabul eder.
+6.2. Fiyatlandırma ve Faturalandırma
+Uygulama üzerinden yapılan tüm ödemeler, Uygulama içinde belirtilen üçüncü taraf ödeme sağlayıcıları aracılığıyla gerçekleştirilir. Fiyatlandırma bilgileri, yürürlükteki vergileri ve diğer ücretleri içerebilir. Uygulama, fiyatlandırma politikalarında önceden bildirim yaparak değişiklik yapma hakkını saklı tutar. Faturalandırma ve ödeme makbuzları, ilgili ödeme sağlayıcının veya Uygulamanın belirlediği yöntemlerle Kullanıcıya ulaştırılır.
+6.3. İptal ve İade Politikaları
+Abonelikler veya tek seferlik ödemelerle ilgili iptal ve iade koşulları, Uygulama içinde ve/veya ilgili ödeme planının detaylarında açıkça belirtilecektir. Kullanıcı, satın alma işlemini tamamlamadan önce bu iptal ve iade politikalarını dikkatlice okumakla yükümlüdür. Genel olarak, Kullanıcının isteği üzerine yapılan hizmet iptallerinde veya iadelerde, Uygulamanın belirlediği şartlar ve yasal sınırlamalar geçerli olacaktır.
+
+7. Üçüncü Taraf Hizmetleri ve Bağlantılar
+7.1. Harita Servisleri (Google Maps)
+Uygulama, konum belirleme ve harita üzerinde gösterim hizmetleri için Google Haritalar gibi üçüncü taraf harita servislerini kullanmaktadır. Bu servislerin kullanımı, ilgili servis sağlayıcının kendi Kullanım Şartları ve Gizlilik Politikalarına tabidir. Uygulama, bu üçüncü taraf harita servislerinin doğruluğundan, kullanılabilirliğinden veya hizmet kesintilerinden sorumlu değildir.
+7.2. Yapay Zeka Servisleri (Google Gemini, fal.ai)
+Uygulama, yapay zeka destekli analiz, metin işleme, görsel oluşturma ve kroki çizimi gibi fonksiyonlar için Google Gemini 2.5 Flash ve fal.ai gibi üçüncü taraf yapay zeka servislerini entegre etmektedir. Bu servislerin işleyişi ve veri kullanımı, ilgili servis sağlayıcıların politikalarına tabidir. Uygulama, bu yapay zeka servislerinin performansından, çıktıların doğruluğundan veya olası hizmet kesintilerinden sorumlu değildir.
+7.3. Hukuki Destek ve Sigorta Acenteleri (Genesis Hukuk, Anlaşmalı Sigortacılar)
+Uygulama, Kullanıcılara kaza sonrası hukuki destek ve sigorta teklifi gibi konularda üçüncü taraf hizmet sağlayıcılara (örn: Genesis Hukuk, anlaşmalı sigorta acenteleri) yönlendirmeler sunabilir. Bu yönlendirmeler, Kullanıcıya ek bir kolaylık sağlamak amacıyla sunulmakta olup, Uygulama bu üçüncü taraf hizmet sağlayıcılarının sunduğu hizmetlerin kalitesinden, doğruluğundan, içeriğinden veya finansal işlemlerinden sorumlu değildir. Bu hizmetlerden faydalanma kararı tamamen Kullanıcıya aittir ve Kullanıcı, ilgili hizmet sağlayıcının kendi koşullarını kabul etmiş sayılır.
+7.4. Üçüncü Taraf Reklamları (Eğer Varsa)
+Uygulama içerisinde, üçüncü taraf ürün ve hizmetlerine ait reklamlar veya tanıtımlar yer alabilir. Bu reklamlar, Kullanıcının ilgi alanlarına göre kişiselleştirilmiş olabilir. Uygulama, bu reklamların içeriğinden, doğruluğundan veya bu reklamlara ilişkin ürün ve hizmetlerin kalitesinden sorumlu değildir. Reklamlara tıklanması halinde, Kullanıcı ilgili üçüncü tarafın web sitesine veya uygulamasına yönlendirilebilir ve bu durum, üçüncü tarafın kendi gizlilik ve kullanım koşullarına tabi olacaktır.
+7.5. Üçüncü Taraf Web Sitelerine Yönlendirme ve Sorumluluk Reddi
+Uygulama, çeşitli amaçlarla üçüncü taraf web sitelerine veya uygulamalarına bağlantılar içerebilir. Bu bağlantılar, Kullanıcıya ek bilgi veya hizmet sunmak amacıyla sağlanmıştır. Ancak Uygulama, bağlantı verilen bu web sitelerinin içeriğini kontrol etmez ve bu sitelerin güvenliğinden, gizlilik uygulamalarından veya sundukları hizmetlerden sorumlu değildir. Kullanıcı, bu tür üçüncü taraf sitelere erişim sağladığında riskin kendisine ait olduğunu kabul eder.
+
+8. Sorumluluğun Sınırlandırılması ve Garanti Reddi
+8.1. Uygulamanın "Olduğu Gibi" Sunulması
+AI Kaza Raporu Asistanı, Uygulamayı ve sunduğu tüm hizmetleri "olduğu gibi" ve "mevcut haliyle" sunmaktadır. Uygulama, herhangi bir açık veya zımni garanti vermez. Bu, Uygulamanın kesintisiz, hatasız, güvenli veya belirli bir amaca uygun olduğuna dair herhangi bir garantiyi kapsamaz.
+8.2. Herhangi Bir Garanti Verilmemesi
+Uygulama, hizmetlerinin belirli bir sonuç sağlayacağına, kaza raporlarının her zaman resmi makamlar veya sigorta şirketleri tarafından kabul edileceğine veya Kullanıcının yasal süreçlerde avantaj sağlayacağına dair hiçbir garanti vermez. Tüm beyanlar, Kullanıcının nihai onayı ve doğrulamasıyla geçerlilik kazanır. Uygulama, ticari elverişlilik, belirli bir amaca uygunluk ve üçüncü taraf haklarının ihlal edilmemesi dahil ancak bunlarla sınırlı olmamak üzere zımni garantileri açıkça reddeder.
+8.3. Doğrudan ve Dolaylı Zararlardan Sorumluluk Reddi (Özellikle Kaza Sonrası Süreçlerden Kaynaklanan)
+Uygulama, Uygulamanın kullanımından veya kullanılamamasından kaynaklanan hiçbir doğrudan, dolaylı, arızi, özel, cezai veya netice kabilinden zarardan sorumlu değildir. Bu, özellikle Uygulama üzerinden oluşturulan raporlardaki hatalardan, eksikliklerden, gecikmelerden veya üçüncü taraf hizmetlerinin kullanımıyla ilgili olarak ortaya çıkabilecek her türlü kaybı (gelir kaybı, veri kaybı, itibar kaybı, maddi hasar veya hukuki süreçlerde yaşanabilecek olumsuz sonuçlar dahil ancak bunlarla sınırlı olmamak üzere) kapsar. Kullanıcı, Uygulamayı kullanmaktan doğacak riskin tamamen kendisine ait olduğunu kabul eder.
+Harika! "Kullanım Koşulları" belgenizin son üç ana bölümünü de hazırlıyorum. Bu kısımlar, hesap yönetimi, yasal anlaşmazlıkların çözümü ve iletişim bilgilerini kapsayarak belgenizi tamamlayacaktır.
+
+9. Hesap Askıya Alma, Sonlandırma ve Değişiklikler
+9.1. Hizmet Sağlayıcının Hesap Sonlandırma Hakkı
+AI Kaza Raporu Asistanı, aşağıdaki durumlarda Kullanıcının Uygulama hesabını önceden bildirimde bulunmaksızın derhal askıya alma, sınırlama veya tamamen sonlandırma hakkını saklı tutar:
+Kullanıcının işbu Kullanım Koşulları veya Gizlilik Politikası'nı ihlal etmesi.
+Kullanıcının yasa dışı faaliyetlerde bulunması veya Uygulamayı kötüye kullanması.
+Kullanıcının Uygulamanın güvenliğini veya bütünlüğünü tehdit etmesi.
+Uygulamanın hizmet verme politikasının değişmesi veya yasal zorunluluklar.
+Bu tür bir sonlandırma durumunda, Kullanıcının Uygulama içerisindeki verilere erişimi kısıtlanabilir veya tamamen kaldırılabilir.
+9.2. Kullanıcının Hesabı Sonlandırma Hakkı
+Kullanıcı, istediği zaman Uygulama içindeki ilgili menüler aracılığıyla hesabını sonlandırma talebinde bulunabilir. Hesap sonlandırma talebinde bulunulduğunda, Gizlilik Politikası'nda belirtilen hükümler çerçevesinde Kullanıcının verileri işlenir ve saklanır. Hesap sonlandırma işlemi, Kullanıcının devam eden yasal yükümlülüklerini (örneğin, önceden oluşturulmuş bir rapora ilişkin sorumluluklar) ortadan kaldırmaz.
+9.3. Koşullarda Değişiklik Yapma Hakkı ve Kullanıcının Bilgilendirilmesi
+AI Kaza Raporu Asistanı, işbu Kullanım Koşulları'nı tek taraflı olarak, herhangi bir zamanda değiştirme hakkını saklı tutar. Yapılan değişiklikler, Uygulama içinde veya resmi web sitesi aracılığıyla yayınlandığı tarihte yürürlüğe girer. Uygulama, önemli değişiklikleri Kullanıcılara e-posta, uygulama içi bildirim veya diğer uygun iletişim kanalları aracılığıyla bildirebilir. Koşullarda yapılan değişikliklerden sonra Uygulamayı kullanmaya devam etmeniz, bu değişiklikleri kabul ettiğiniz anlamına gelir. Değişiklikleri kabul etmeyen Kullanıcılar, Uygulamayı kullanmayı bırakmalı ve hesaplarını sonlandırmalıdır.
+
+10. Anlaşmazlıkların Çözümü
+10.1. Uygulanacak Hukuk (Türk Hukuku)
+İşbu Kullanım Koşulları ve Uygulamanın kullanımından kaynaklanan veya bunlarla ilişkili tüm anlaşmazlıklar, Türkiye Cumhuriyeti kanunlarına tabi olacaktır.
+10.2. Yetkili Mahkemeler ve İcra Daireleri
+Uygulamanın kullanımından kaynaklanan veya işbu Koşullar ile ilgili olarak ortaya çıkabilecek her türlü hukuki uyuşmazlığın çözümünde Antalya Mahkemeleri ve İcra Daireleri yetkilidir.
+
+11. İletişim Bilgileri
+11.1. Hizmet Sağlayıcı Bilgileri
+Uygulamanın sahibi ve işletmecisi:
+Genesis Hukuk - Av. Sercan Koç
+Yeşilbahçe, Lara Cd. Atmaca Sit B Blok No:25 D:1, 07160 Muratpaşa/Antalya
+info@genesishukuk.com
+11.2. Kullanıcı Destek ve Bildirimler
+Uygulama ile ilgili sorularınız, geri bildirimleriniz, teknik destek talepleriniz veya bu Koşullara ilişkin bildirimleriniz için yukarıdaki e-posta adresi üzerinden bizimle iletişime geçebilirsiniz. Tüm bildirimleriniz en kısa sürede değerlendirilerek size geri dönüş yapılacaktır.
